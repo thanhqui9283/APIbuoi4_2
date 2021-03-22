@@ -1,0 +1,10 @@
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\bin\Debug\NguyenThanhQui_5951071086.exe.config
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\bin\Debug\NguyenThanhQui_5951071086.exe
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\bin\Debug\NguyenThanhQui_5951071086.pdb
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.csprojAssemblyReference.cache
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.Form1.resources
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.Properties.Resources.resources
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.csproj.GenerateResource.cache
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.csproj.CoreCompileInputs.cache
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.exe
+D:\admin\HOCKY6\BTAPI\NguyenThanhQui_5951071086\NguyenThanhQui_5951071086\obj\Debug\NguyenThanhQui_5951071086.pdb
